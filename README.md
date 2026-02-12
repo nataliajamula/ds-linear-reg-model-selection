@@ -1,4 +1,4 @@
-# Homework 10
+Introduction to Data Science
 
 This is our **final project** for CSE217A.
 
